@@ -18,3 +18,9 @@ Auf dieser Seite möchte ich meine gesammelten Erfahrungen aus persönlichen Stu
 * [wyszkolewas.pl](https://www.wyszkolewas.com.pl/)
 * [testerka.pl](http://testerka.pl/)
 * [remigiuszbednarczyk.pl]( https://remigiuszbednarczyk.pl/)
+
+# Meine Testdokumentation
+
+* Test-Bericht(https://drive.google.com/drive/u/0/folders/13JaUouhERIyreLFjMA8bImm0bauVP5gU)
+* Fehlerbericht 1(https://drive.google.com/drive/u/0/folders/13JaUouhERIyreLFjMA8bImm0bauVP5gU)
+* Fehlerbericht 2(https://drive.google.com/drive/u/0/folders/13JaUouhERIyreLFjMA8bImm0bauVP5gU)
