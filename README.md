@@ -7,10 +7,14 @@ Ich habe die Produktion gestoppt, um entsprechende Maßnahmen zu ergreifen. Ich 
 Das Testen liegt mir sehr nah, da die Qualität des Produktes von der Reife des etablierten Testverfahrens abhängig ist. Tests erhöhen doch die Qualität des Produktes.
 Mein Ziel ist es jetzt, Testwissen und technische Fähigkeiten zu entwickeln. 
 Auf dieser Seite möchte ich meine gesammelten Erfahrungen aus persönlichen Studien und Forschungen teilen.
-# Courses
-* Ausbildung zum Softwaretester (https://www.wyszkolewas.com.pl/)
-* Bootcamp Junior Java Developer (https://bootcamp.javastart.pl/)
-# Groups on Facebook 
-* Tester oprogramowania - wsparcie na starcie https://www.facebook.com/groups/testeroprogramowania/?multi_permalinks=1353043351863092
-* ISTQB - egzaminy, pytania, testy https://www.facebook.com/groups/194288250951242
-* JAVA dla początkujących https://www.facebook.com/groups/231900600895570
+# Kurse
+* [Ausbildung zum Softwaretester](https://www.wyszkolewas.com.pl/)
+* [Bootcamp Junior Java Developer](https://bootcamp.javastart.pl/)
+# Facebook-Gruppen
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?multi_permalinks=1353043351863092)
+* [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
+* [JAVA dla początkujących](https://www.facebook.com/groups/231900600895570)
+# Blogs
+*[wyszkolewas.pl](https://www.wyszkolewas.com.pl/)
+*[testerka.pl](http://testerka.pl/)
+*[remigiuszbednarczyk.pl]( https://remigiuszbednarczyk.pl/)
