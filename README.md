@@ -15,6 +15,6 @@ Auf dieser Seite möchte ich meine gesammelten Erfahrungen aus persönlichen Stu
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 * [JAVA dla początkujących](https://www.facebook.com/groups/231900600895570)
 # Blogs
-*[wyszkolewas.pl](https://www.wyszkolewas.com.pl/)
-*[testerka.pl](http://testerka.pl/)
-*[remigiuszbednarczyk.pl]( https://remigiuszbednarczyk.pl/)
+* [wyszkolewas.pl](https://www.wyszkolewas.com.pl/)
+* [testerka.pl](http://testerka.pl/)
+* [remigiuszbednarczyk.pl]( https://remigiuszbednarczyk.pl/)
