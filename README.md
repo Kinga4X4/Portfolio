@@ -1,5 +1,4 @@
 # Portfolio
-Mein Softwaretester-Portfolio
 # Über mich 
 Ich heisse Kinga Paszkiewicz. Ich habe Qualitätsingenieurwesen studiert. Nachdem ich 10 Jahre erfolgreich als Qualitätsingenieurin gearbeitet habe, habe ich entschlossen mein neuen Arbeitsweg zu gehen. 
 In den letzten Zeit hat meine Interesse Software Testing geweckt.  
@@ -8,3 +7,10 @@ Ich habe die Produktion gestoppt, um entsprechende Maßnahmen zu ergreifen. Ich 
 Das Testen liegt mir sehr nah, da die Qualität des Produktes von der Reife des etablierten Testverfahrens abhängig ist. Tests erhöhen doch die Qualität des Produktes.
 Mein Ziel ist es jetzt, Testwissen und technische Fähigkeiten zu entwickeln. 
 Auf dieser Seite möchte ich meine gesammelten Erfahrungen aus persönlichen Studien und Forschungen teilen.
+# Courses
+* Ausbildung zum Softwaretester (https://www.wyszkolewas.com.pl/)
+* Bootcamp Junior Java Developer (https://bootcamp.javastart.pl/)
+# Groups on Facebook 
+* Tester oprogramowania - wsparcie na starcie https://www.facebook.com/groups/testeroprogramowania/?multi_permalinks=1353043351863092
+* ISTQB - egzaminy, pytania, testy https://www.facebook.com/groups/194288250951242
+* JAVA dla początkujących https://www.facebook.com/groups/231900600895570
