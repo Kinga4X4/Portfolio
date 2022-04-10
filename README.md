@@ -23,22 +23,26 @@ Auf dieser Seite möchte ich meine gesammelten Erfahrungen aus persönlichen Stu
 * [Testplan](https://drive.google.com/drive/folders/1zYbDMQhRX0tL3Shj035D7ZnfUy-bFPh2)
 
 # Tech-Stack - Grundkenntnisse
-* JIRA, TestLink
+* Managementmethode: SCRUM
 * Software testing
 * Creating test cases
 * Reporting bugs
+
+# Werkzeuge - Grundkentnisse
 * GitHub
-* MySQL
-* Managementmethode: SCRUM
+* JIRA
+* TestLink
+* Frameworks: Hibernate, Spring
 * Programmiersprache: JAVA
-* HTML, CSS
-* Hibernate, Spring
+* Entwicklungsumgebung: IntelliJ IDEA
+* MySQL Workbench
+* HTML,CSS
 
 # Facebook-Gruppen
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?multi_permalinks=1353043351863092)
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 * [JAVA dla początkujących](https://www.facebook.com/groups/231900600895570)
-* 
+
 # Blogs
 * [wyszkolewas.pl](https://www.wyszkolewas.com.pl/)
 * [testerka.pl](http://testerka.pl/)
