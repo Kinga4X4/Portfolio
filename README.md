@@ -3,8 +3,10 @@
 # Über mich 
 Ich heisse Kinga Paszkiewicz. Ich habe ein Qualitätsingenieurwesen an der Fakultät für Informatik und Informationstechnik studiert. Nachdem ich 10 Jahre erfolgreich im Bereich Qualitätssicherung im Automobilbranche gearbeitet habe, habe ich entschlossen einen neuen Arbeitsweg zu gehen. 
 Seit einige Zeit hat mich Software Testing beschäftigt. Ich finde es sehr spannend und interessant.
+
 In meinem jetzigen Beruf als Qualitätsingenieurin musste ich sicherstellen, dass die Produkte den Spezifikationen und Anforderungen des Kunden entsprechen. Ich organisierte zusätzliche Kontrollen und Sortierungen um sicher zu stellen, dass der Kunde nur i.O Ware bekommt. 
 Das Testen liegt mir sehr nah, da die Qualität des Produktes von der Reife des etablierten Testverfahrens abhängig ist - Tests erhöhen doch die Qualität des Produktes.
+
 Mein Aktueles Ziel ist, Testwissen und technische Fähigkeiten zu entwickeln. 
 Auf dieser Seite möchte ich meine gesammelten Erfahrungen aus dem persönlichen Studien und Forschungen präsentieren.
 
@@ -21,21 +23,20 @@ Auf dieser Seite möchte ich meine gesammelten Erfahrungen aus dem persönlichen
 * [Testfälle](https://drive.google.com/drive/folders/1idTpjFZru2eGDc7xLNotul79EPIPNR_Z)
 * [Testplan](https://drive.google.com/drive/folders/1zYbDMQhRX0tL3Shj035D7ZnfUy-bFPh2)
 
-# Tech-Stack - Grundkenntnisse
-* Managementmethode: SCRUM
-* Software testing
-* Creating test cases
-* Reporting bugs
 
-# Werkzeuge - Grundkentnisse
+# Tech-Stack - Grundkentnisse
 * GitHub
-* JIRA
-* TestLink
-* Frameworks: Hibernate, Spring
-* Programmiersprache: JAVA
-* Entwicklungsumgebung: IntelliJ IDEA
-* MySQL Workbench
-* HTML,CSS
+*	JIRA
+*	TestLink
+*	MySQL 
+*	HTML, CSS
+*	Postman 
+*	Manuelle Testfähigkeiten, Testfällen Erstellung, Berichte auf der Grundlage von Tests erstellen
+*	Fehlerberichterstattung 
+*	Frameworks: Hibernate, Spring
+*	Programmiersprache: JAVA
+*	Entwicklungsumgebung: IntelliJ IDEA
+
 
 # Facebook-Gruppen
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?multi_permalinks=1353043351863092)
